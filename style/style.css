@@ -114,6 +114,16 @@ body{
 	height: 150px;
 }
 
+#goals i{
+	font-size: 30px;
+	color: #FF5800;
+}
+
+#student-goals i{
+	font-size: 30px;
+	color: #FF5800;
+}
+
 .main {
 	float: left;
 	height: 300px;

@@ -34,7 +34,7 @@
 		<h2>REMEINDERS</h2>
 		<input type="checkbox"> Read with STUDENT A<br/>
 		<input type="checkbox"> Check the homework from group B<br/>
-		<input type="checkbox"> Filling glue files<br/>
+		<input type="checkbox"> Filling the pencil cup<br/>
 		<i class="fa fa-plus-square" aria-hidden="true"></i>
 	</div>	
 

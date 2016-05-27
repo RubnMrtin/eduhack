@@ -32,6 +32,7 @@
 			<input type="checkbox"> Adding numbers with 2 digits<br/>
 			<input type="checkbox"> Spelling words with "-ng" or "-nk"<br/>
 			<input type="checkbox"> What animals live in the Dutch forest?<br/>
+        <i class="fa fa-plus-square" aria-hidden="true"></i>
 		</div>	
 
 		<div id="student-warnings">
