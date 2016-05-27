@@ -1,0 +1,240 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+a{
+	text-decoration: none;
+	color: inherit;
+}
+
+p{
+	cursor: default;
+}
+
+h1{
+	text-align: center;
+	color: #FF5800;
+	font-size: 60px; 
+}
+
+h1, h2{
+	font-family: "Montserrat";
+	text-align: center;
+	padding: 20px;
+}
+
+body{
+	background: #f9f9f9;
+}
+
+#site-info{
+	background: #FF5800;
+	color: #ffffff;
+	padding: 10px 0;
+	margin-bottom: 50px;
+	height: 80px;
+	width: 100%;
+}
+
+#logo1{
+	float: left;
+	width: 8%;
+}
+
+#logo1 h1{
+	color: inherit;
+	margin: 0 auto;
+	padding: 0;
+}
+
+#logo2 h1{
+	color: inherit;
+	margin: auto;
+	padding: 0;
+}
+
+#logo3 h1{
+	color: inherit;
+	margin: 0 auto;
+	padding: 0;
+}
+
+#logo3{
+	float: left;
+	margin: 0 auto;
+	padding: 0;
+	width: 90%;
+}
+
+#logout{
+	float: left;
+	width: 10%;
+	height: 100%;
+}
+
+#logo2{
+	float: left;
+	width: 82%;
+}
+
+.contenedor{
+	font-family: "Montserrat";
+	margin: 0 auto;
+	width:100%;
+	height: 100%;
+}
+
+#calendar{
+	float: left;
+
+	text-align: center;
+	margin: 0 5%;
+	width: 40%;
+	height: 600px;
+}
+
+#calendar img{
+	width: 60%;
+}
+
+#warnings{
+	float: left;
+	
+	padding: 0 10%;
+	width: 30%;
+	height: 150px;
+}
+
+#goals{
+	float: left;
+	
+	padding: 0 10%;
+	width: 30%;
+	height: 150px;
+}
+
+.main {
+	float: left;
+	height: 300px;
+	width:92%;
+}
+
+#next{
+	background: #FF5800;
+	float: left;
+
+	width: 8%;
+	height: 100%;
+	writing-mode: vertical-rl;
+	text-orientation: upright;
+}
+
+#next h1{
+	color: #fff;
+}
+
+#bubbles{
+	float: right;
+	height: 500px;
+	width: 70%;
+}
+
+#caja1{
+	float: right;
+	width: 30%;
+}
+#groups{
+	float: right;
+	height: 350px;
+	width: 100%;
+
+	overflow: scroll;
+	overflow-x:hidden
+}
+
+#groups ul{
+	margin-left: 20px;
+	list-style: none;
+}
+
+#groups > ul li{
+	margin-bottom: 5px;
+	list-style: none;
+}
+
+#subjects{
+	float: right;
+
+	padding: 25px 5%;
+	height: 100px;
+	width: 90%;
+}
+
+.button{
+   background: #FF5800;
+   border: none; 
+   border-radius: 3px; 
+   color: #ffffff;
+   cursor: pointer;
+ 
+   font-size: 24px;
+
+   float: left;
+   margin: 10px;
+   padding: 5px; 
+
+   text-align: center;
+   text-decoration: none;
+	-webkit-transition: .6s background; 
+   transition: .6s background; 
+}
+
+#caja2{
+	float: right;
+	width: 40%;
+}
+
+#radar-chart{
+	float: right;
+	width: 60%;
+	height: 600px;
+}
+
+#data-title{
+	width: 100%;
+}
+
+#data-title h1{
+	font-size: 40px;
+}
+
+#data{
+	padding: 0 5%;
+	width: 90%;
+}
+
+#data ul{
+	margin-left: 20px;
+	list-style: none;
+}
+
+#student-warnings{
+	padding: 0 5%;
+	width: 90%;
+	height: 150px;
+}
+
+#student-warnings ul{
+	margin-left: 20px;
+	list-style: none;
+}
+
+#student-goals{
+	
+	padding: 0 5%;
+	width: 90%;
+	height: 150px;
+}
+
+

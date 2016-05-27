@@ -1,0 +1,50 @@
+.slides {
+  width:100%;
+  font-family: Montserrat;
+}
+ 
+.slides img {
+  width:100%;
+}
+ 
+.slidesjs-control{
+  z-index: -1;
+}
+
+.slidesjs-navigation{
+  display: none;
+}
+
+.slidesjs-pagination {
+	background: #FF9900;
+	list-style:none;
+	overflow:hidden;
+}
+ 
+.slidesjs-pagination li {
+	float:left;
+}
+ 
+.slidesjs-pagination li a {
+	display:block;
+	padding:13.5px 20px;
+	color:#fff;
+	text-decoration:none;
+}
+ 
+.slidesjs-pagination li a:hover {
+	background:#FF5800;
+}
+ 
+.slides .active {
+	background:#FF5800;
+}
+ 
+.slidesjs-navigation{
+	background:#FF5800;
+	color:#fff;
+	text-decoration:none;
+	display:inline-block;
+	padding:13.5px 20px;
+	float:right;
+}
